@@ -23,7 +23,7 @@ email: alu0101329888@ull.edu.es
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal webpage made with Jekyll
 baseurl: "/alu0101329888/" # the subpath of your site, e.g. /blog
-url: "https://alu0101329888.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alu0101329888.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alu0101329888
 github_username:  alu0101329888
 
