@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "gh-pages": "^6.2.0"
+  },
+  "name": "alu0101329888",
+  "version": "1.0.0",
+  "description": "⚡ Fun fact: In Greece, Cyprus, Iran, Turkey and Bulgaria, a nod is used to indicate refusal and not aproval or acceptance.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "bundle exec jekyll s --watch --incremental --future -V -P 4444",
+    "build": "bundle exec jekyll build --future -V",
+    "deploy": "npm run build && npx gh-pages -d _site"
+  },
+  "author": "",
+  "license": "ISC"
+}
